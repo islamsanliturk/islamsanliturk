@@ -13,6 +13,7 @@ I am a developer who constantly learns about Web Technologies, Mobile Technologi
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=islamsanliturk&show_icons=true&theme=tokyonight&line_height=27">
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=islamsanliturk)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 </details>
